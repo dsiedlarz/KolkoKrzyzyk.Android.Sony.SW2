@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Dawid\Desktop\HelloLayouts1\helloLayouts\build\intermediates\exploded-aar\HelloLayouts1\smartExtensionAPI\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="909ad21e95cb7bb67df80b3b1667591b414faab6">
+        <dex dex="C:\Users\Dawid\Desktop\HelloLayouts1\helloLayouts\build\intermediates\pre-dexed\release\classes-e6490316443b4bb1277556d06161eccfd629ab2e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dawid\Desktop\HelloLayouts1\helloLayouts\build\intermediates\exploded-aar\HelloLayouts1\smartExtensionUtils\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="813279597140c3820e2acd6734341058ab95eb48">
+        <dex dex="C:\Users\Dawid\Desktop\HelloLayouts1\helloLayouts\build\intermediates\pre-dexed\release\classes-a5b80535a2b88ff2d97a5758c4ab06d5b1f18aff.jar" />
+    </item>
+
+</items>
